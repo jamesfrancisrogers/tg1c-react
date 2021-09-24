@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 // eslint-disable-next-line
 import 'swiper/swiper-bundle.css';
+import './styles.css';
 
 import App from './App.jsx';
 
